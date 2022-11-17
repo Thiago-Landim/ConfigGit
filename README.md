@@ -14,7 +14,10 @@
   <img align="center" alt="springboot" src="https://img.shields.io/badge/springboot-43853D?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
+
 Apaixonado por tecnologia,em constante evolução.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
